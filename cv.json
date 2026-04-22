@@ -1,0 +1,119 @@
+{
+  "basics": {
+    "name": "Caini PAN",
+    "email": "caini.pan@cea.fr",
+    "phone": "+33 787384867",
+    "website": "https://alineyyy.github.io/personalpage",
+    "summary": "Ph.D. Researcher in Medical Imaging at NeuroSpin, CEA Paris-Saclay. Working on high-resolution MRI acquisition, k-space trajectory optimization, and AI-driven image reconstruction.",
+    "location": {
+      "address": "55 Boulevard Jourdan",
+      "postalCode": "75014",
+      "city": "Paris",
+      "countryCode": "FR",
+      "region": "Île-de-France"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "alineyyy",
+        "url": "https://github.com/alineyyy"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "MIND, NeuroSpin, CEA Paris-Saclay",
+      "position": "Ph.D. Researcher",
+      "startDate": "2024-12-01",
+      "endDate": "",
+      "summary": "High-resolution 4D acquisition strategy for 11.7 T fMRI. Optimizing 4D sampling strategies for ultra-high-field MR systems to achieve enhanced SNR and minimal artifacts."
+    },
+    {
+      "company": "MIND, NeuroSpin, CEA Paris-Saclay",
+      "position": "Research Intern",
+      "startDate": "2024-04-01",
+      "endDate": "2024-10-01",
+      "summary": "Optimizing k-space trajectories for MRI reconstruction. Incorporated automatic differentiation via Jacobian approximation in MRI-NUFFT. Adapted PROJeCTOR framework using bi-level optimization for CS-MRI."
+    },
+    {
+      "company": "LTCI, Télécom Paris",
+      "position": "Research Project",
+      "startDate": "2023-09-01",
+      "endDate": "2024-02-01",
+      "summary": "Knowledge distillation from multi-modal to mono-modal networks using self-generated data and a custom U-Net. Visualized saliency maps to identify decisive layers in knowledge transfer."
+    },
+    {
+      "company": "LTCI, Télécom Paris",
+      "position": "Research Project",
+      "startDate": "2023-04-01",
+      "endDate": "2023-06-01",
+      "summary": "Classification on cardiac MRI images. Implemented U-Net for left ventricular segmentation and an MLP classifier for five cardiac disease categories."
+    },
+    {
+      "company": "MISA Lab, Xidian University & Fu Wai Hospital CAMS",
+      "position": "Research Intern",
+      "startDate": "2021-11-01",
+      "endDate": "2022-06-01",
+      "summary": "Segmentation of myocardial pathology histology slides using a novel CLAM-based approach for first-ever epicardium segmentation on pathological tissue slices."
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Paris-Saclay",
+      "area": "Physics & Medical Imaging",
+      "studyType": "Ph.D.",
+      "startDate": "2024-12-01",
+      "endDate": "2027-12-01",
+      "gpa": null,
+      "courses": []
+    },
+    {
+      "institution": "Télécom Paris, Institut Polytechnique de Paris",
+      "area": "Engineering",
+      "studyType": "Engineer's Degree (MS)",
+      "startDate": "2022-09-01",
+      "endDate": "2024-12-01",
+      "gpa": "4.0/4.0",
+      "courses": []
+    },
+    {
+      "institution": "Xidian University",
+      "area": "Electronic Information Engineering",
+      "studyType": "B.S.",
+      "startDate": "2018-09-01",
+      "endDate": "2022-06-01",
+      "gpa": "3.7/4.0",
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming Languages",
+      "keywords": ["Python", "C/C++", "MATLAB", "JavaScript", "HTML", "SQL", "Prolog", "LaTeX"]
+    },
+    {
+      "name": "Frameworks & Libraries",
+      "keywords": ["PyTorch", "TensorFlow", "OpenCV", "MRI-NUFFT"]
+    }
+  ],
+  "languages": [
+    { "language": "Chinese", "fluency": "Native" },
+    { "language": "English", "fluency": "IELTS 6.5" },
+    { "language": "French", "fluency": "DELF B2" }
+  ],
+  "interests": [
+    {
+      "name": "Medical Imaging",
+      "keywords": ["MRI reconstruction", "k-space trajectory optimization", "fMRI", "ultra-high-field MRI"]
+    },
+    {
+      "name": "Deep Learning for Healthcare",
+      "keywords": ["Segmentation", "Knowledge distillation", "Multi-modal learning", "Compressed sensing"]
+    }
+  ],
+  "references": [],
+  "publications": [],
+  "presentations": [],
+  "teaching": [],
+  "portfolio": []
+}
