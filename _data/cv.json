@@ -1,152 +1,119 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "name": "Caini PAN",
+    "email": "caini.pan@cea.fr",
+    "phone": "+33 787384867",
+    "website": "https://alineyyy.github.io/personalpage",
+    "summary": "Ph.D. Researcher in Medical Imaging at NeuroSpin, CEA Paris-Saclay. Working on high-resolution MRI acquisition, k-space trajectory optimization, and AI-driven image reconstruction.",
     "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
-      "region": ""
+      "address": "55 Boulevard Jourdan",
+      "postalCode": "75014",
+      "city": "Paris",
+      "countryCode": "FR",
+      "region": "Île-de-France"
     },
     "profiles": [
       {
-        "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "https://orcid.org/yourorcidurl"
-      },
-      {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "alineyyy",
+        "url": "https://github.com/alineyyy"
       }
     ]
   },
-  "work": [],
+  "work": [
+    {
+      "company": "MIND, NeuroSpin, CEA Paris-Saclay",
+      "position": "Ph.D. Researcher",
+      "startDate": "2024-12-01",
+      "endDate": "",
+      "summary": "High-resolution 4D acquisition strategy for 11.7 T fMRI. Optimizing 4D sampling strategies for ultra-high-field MR systems to achieve enhanced SNR and minimal artifacts."
+    },
+    {
+      "company": "MIND, NeuroSpin, CEA Paris-Saclay",
+      "position": "Research Intern",
+      "startDate": "2024-04-01",
+      "endDate": "2024-10-01",
+      "summary": "Optimizing k-space trajectories for MRI reconstruction. Incorporated automatic differentiation via Jacobian approximation in MRI-NUFFT. Adapted PROJeCTOR framework using bi-level optimization for CS-MRI."
+    },
+    {
+      "company": "LTCI, Télécom Paris",
+      "position": "Research Project",
+      "startDate": "2023-09-01",
+      "endDate": "2024-02-01",
+      "summary": "Knowledge distillation from multi-modal to mono-modal networks using self-generated data and a custom U-Net. Visualized saliency maps to identify decisive layers in knowledge transfer."
+    },
+    {
+      "company": "LTCI, Télécom Paris",
+      "position": "Research Project",
+      "startDate": "2023-04-01",
+      "endDate": "2023-06-01",
+      "summary": "Classification on cardiac MRI images. Implemented U-Net for left ventricular segmentation and an MLP classifier for five cardiac disease categories."
+    },
+    {
+      "company": "MISA Lab, Xidian University & Fu Wai Hospital CAMS",
+      "position": "Research Intern",
+      "startDate": "2021-11-01",
+      "endDate": "2022-06-01",
+      "summary": "Segmentation of myocardial pathology histology slides using a novel CLAM-based approach for first-ever epicardium segmentation on pathological tissue slices."
+    }
+  ],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "institution": "University of Paris-Saclay",
+      "area": "Physics & Medical Imaging",
+      "studyType": "Ph.D.",
+      "startDate": "2024-12-01",
+      "endDate": "2027-12-01",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
+      "institution": "Télécom Paris, Institut Polytechnique de Paris",
+      "area": "Engineering",
+      "studyType": "Engineer's Degree (MS)",
+      "startDate": "2022-09-01",
+      "endDate": "2024-12-01",
+      "gpa": "4.0/4.0",
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
+      "institution": "Xidian University",
+      "area": "Electronic Information Engineering",
+      "studyType": "B.S.",
+      "startDate": "2018-09-01",
+      "endDate": "2022-06-01",
+      "gpa": "3.7/4.0",
       "courses": []
     }
   ],
-  "skills": [],
-  "languages": [],
-  "interests": [],
+  "skills": [
+    {
+      "name": "Programming Languages",
+      "keywords": ["Python", "C/C++", "MATLAB", "JavaScript", "HTML", "SQL", "Prolog", "LaTeX"]
+    },
+    {
+      "name": "Frameworks & Libraries",
+      "keywords": ["PyTorch", "TensorFlow", "OpenCV", "MRI-NUFFT"]
+    }
+  ],
+  "languages": [
+    { "language": "Chinese", "fluency": "Native" },
+    { "language": "English", "fluency": "IELTS 6.5" },
+    { "language": "French", "fluency": "DELF B2" }
+  ],
+  "interests": [
+    {
+      "name": "Medical Imaging",
+      "keywords": ["MRI reconstruction", "k-space trajectory optimization", "fMRI", "ultra-high-field MRI"]
+    },
+    {
+      "name": "Deep Learning for Healthcare",
+      "keywords": ["Segmentation", "Knowledge distillation", "Multi-modal learning", "Compressed sensing"]
+    }
+  ],
   "references": [],
-  "publications": [
-    {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
-    }
-  ],
-  "presentations": [
-    {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
-    }
-  ],
-  "teaching": [
-    {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
-    }
-  ],
-  "portfolio": [
-    {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-    }
-  ]
+  "publications": [],
+  "presentations": [],
+  "teaching": [],
+  "portfolio": []
 }
