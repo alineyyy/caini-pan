@@ -14,8 +14,8 @@ title_separator          : "-"
 name                     : &name "Caini PAN"
 description              : &description "Ph.D. Researcher in Medical Imaging at NeuroSpin, CEA Paris-Saclay"
 url                      : https://alineyyy.github.io
-baseurl                  : "/personalpage"
-repository               : "alineyyy/personalpage"
+baseurl                  : "/caini-pan"
+repository               : "alineyyy/caini-pan"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
