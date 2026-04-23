@@ -19,18 +19,19 @@ I am a Ph.D. researcher at [NeuroSpin, CEA Paris-Saclay](https://joliot.cea.fr/d
 
 - **B.S. in Electronic Information Engineering** — Xidian University, Xi'an, China *(2018 – 2022)*
 
-  
-## News
-
-- **Dec 2024** — Started my Ph.D. at NeuroSpin, CEA Paris-Saclay, working on high-resolution 4D fMRI acquisition at 11.7 T.
-- **Oct 2024** — Graduated with an Engineer's Degree from Télécom Paris, Institut Polytechnique de Paris.
-
 ## Publications
 
 **MRI-NUFFT: Doing non-Cartesian MRI has never been easier**  
 Comby, P.-A., Daval-Frérot, G., **Pan, C.**, Tanabene, A., Oudjman, L., Cencini, M., Ciuciu, P., & GR, Chaithya.  
 *Journal of Open Source Software*, 10(108), 7743, 2025.  
 [[DOI]](https://doi.org/10.21105/joss.07743) [[Google Scholar]](https://scholar.google.com/citations?user=gGFoUwEAAAAJ&hl=fr)
+
+  
+## News
+
+- **Dec 2024** — Started my Ph.D. at NeuroSpin, CEA Paris-Saclay, working on high-resolution 4D fMRI acquisition at 11.7 T.
+- **Oct 2024** — Graduated with an Engineer's Degree from Télécom Paris, Institut Polytechnique de Paris.
+
 
 
 
