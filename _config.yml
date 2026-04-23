@@ -25,10 +25,8 @@ author:
   avatar           : "profile.png"
   name             : "Caini PAN"
   pronouns         : "she/her"
-  bio              : "Ph.D. Researcher in Medical Imaging. Working on high-resolution MRI acquisition and AI-driven reconstruction at NeuroSpin, CEA Paris-Saclay."
+  bio              : "Ph.D. Candidate at NeuroSpin (CEA Paris-Saclay) and MIND (Inria Paris-Saclay)."
   location         : "Paris, France"
-  employer         : "CEA Paris-Saclay"
-  uri              : # URL
   email            : "caini.pan@cea.fr"
 
   # Academic websites
