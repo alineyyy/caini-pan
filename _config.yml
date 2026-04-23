@@ -34,7 +34,7 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL
-  googlescholar    : # URL
+  googlescholar    : "https://scholar.google.com/citations?user=gGFoUwEAAAAJ&hl=fr"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : # URL
@@ -56,7 +56,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # not used
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
