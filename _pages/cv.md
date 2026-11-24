@@ -31,8 +31,8 @@ Research experience
   * Medical Imaging System and Application Lab, Xidian University
   * Extended attention-based multiple instance learning (CLAM) to pixel-level epicardium segmentation on whole-slide histology images, with clinical experts from Fuwai Hospital.
 
-* **Research projects — Télécom Paris** (2023 – 2024)
-  * Multimodal-to-single-modality knowledge distillation; cardiac MRI segmentation and pathology classification.
+* **Research project — Multimodal knowledge distillation** (Sept 2023 – Feb 2024)
+  * Multimodal-to-single-modality knowledge distillation (LTCI, Télécom Paris).
 
 Projects & open source
 ======

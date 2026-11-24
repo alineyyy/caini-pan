@@ -9,7 +9,7 @@ redirect_from:
 
 I am a Ph.D. candidate at [NeuroSpin, CEA Paris-Saclay](https://joliot.cea.fr/drf/joliot/en/Pages/research_entities/NeuroSpin.aspx), in the [MIND team](https://team.inria.fr/mind/) (Models and Inference for Neuroimaging Data, Inria & CEA). My thesis develops **high-resolution 4D acquisition strategies for 11.7 T fMRI**: designing spatio-temporal sampling schemes that capture fast brain dynamics, and validating them through simulation and in vivo experiments.
 
-Before my Ph.D., I worked on deep learning for medical image analysis, including computational pathology, cardiac MRI and multimodal knowledge distillation.
+Before my Ph.D., I worked on deep learning for medical image analysis, including computational pathology and multimodal knowledge distillation.
 
 ## Research interests
 
