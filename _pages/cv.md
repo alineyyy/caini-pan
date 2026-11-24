@@ -43,7 +43,7 @@ Projects & open source
 Skills
 ======
 * **Machine learning:** PyTorch, TensorFlow, OpenCV; implicit neural representations, multiple instance learning, knowledge distillation
-* **LLMs & agents:** Strands Agents, Amazon Bedrock, retrieval-augmented generation, structured outputs
+* **LLMs & agents:** Building LLM agent applications with Strands Agents and Amazon Bedrock
 * **Programming:** Python, C/C++, MATLAB, JavaScript, SQL, Git, LaTeX
 * **Languages:** English (fluent), French (DELF B2), Chinese (native)
 
