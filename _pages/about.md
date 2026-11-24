@@ -25,18 +25,19 @@ I am interested in machine learning for complex scientific and biomedical data: 
 
 ## Publications
 
+**In vivo validation of SNAKE for variable-density 3D stack-of-spirals readouts**  
+**Pan, C.**, Comby, P.-A., Chaithya, G.R., Vignaud, A., & Ciuciu, P.  
+*ISMRM*, 2027 (submitted).
+
 **DD-INR: Dynamics-Driven Implicit Neural Representation for Accelerated Whole-Brain Functional MRI Reconstruction**  
 Li, Q., **Pan, C.**, Comby, P.-A., Chaithya, G.R., & Ciuciu, P.  
-*International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)*, 2026.
+*International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)*, 2026.  
+[[arXiv]](https://arxiv.org/abs/2606.10756) [[Code]](https://github.com/JoosenLi/DD-INR)
 
 **MRI-NUFFT: Doing non-Cartesian MRI has never been easier**  
 Comby, P.-A., Daval-Frérot, G., **Pan, C.**, Tanabene, A., Oudjman, L., Cencini, M., Ciuciu, P., & Chaithya, G.R.  
 *Journal of Open Source Software*, 10(108), 7743, 2025.  
 [[DOI]](https://doi.org/10.21105/joss.07743)
-
-**In vivo validation of SNAKE for variable-density 3D stack-of-spirals readouts**  
-**Pan, C.**, Comby, P.-A., Chaithya, G.R., Vignaud, A., & Ciuciu, P.  
-*ISMRM*, 2027 (submitted).
 
 See also my [Google Scholar profile](https://scholar.google.com/citations?user=gGFoUwEAAAAJ&hl=fr).
 
