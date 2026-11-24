@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Caini PAN"
+title: "Caini Pan"
 author_profile: true
 redirect_from: 
   - /about/

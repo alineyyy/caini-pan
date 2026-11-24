@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Caini PAN"
+title                    : "Caini Pan"
 title_separator          : "-"
-name                     : &name "Caini PAN"
+name                     : &name "Caini Pan"
 description              : &description "Ph.D. candidate at NeuroSpin (CEA) and MIND (Inria), working on machine learning and fMRI"
 url                      : https://alineyyy.github.io
 baseurl                  : "/caini-pan"
@@ -23,7 +23,7 @@ repository               : "alineyyy/caini-pan"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Caini PAN"
+  name             : "Caini Pan"
   pronouns         : "she/her"
   bio              : "Ph.D. Candidate at NeuroSpin (CEA Paris-Saclay) and MIND (Inria Paris-Saclay)."
   location         : "Paris, France"
