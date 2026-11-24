@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Caini PAN"
 title_separator          : "-"
 name                     : &name "Caini PAN"
-description              : &description "Ph.D. Researcher in Medical Imaging at NeuroSpin, CEA Paris-Saclay"
+description              : &description "Ph.D. candidate at NeuroSpin (CEA) and MIND (Inria), working on machine learning and fMRI"
 url                      : https://alineyyy.github.io
 baseurl                  : "/caini-pan"
 repository               : "alineyyy/caini-pan"
