@@ -45,7 +45,7 @@ Skills
 * **Machine learning:** PyTorch, TensorFlow, OpenCV; implicit neural representations, multiple instance learning, knowledge distillation
 * **LLMs & agents:** Strands Agents, Amazon Bedrock, multi-agent pipelines, BM25 retrieval
 * **Programming:** Python, C/C++, MATLAB, JavaScript, SQL, Git, LaTeX
-* **Languages:** English (professional working proficiency), French (conversational), Chinese (native)
+* **Languages:** English (professional working proficiency), French (good working knowledge), Chinese (native)
 
 Publications
 ======
